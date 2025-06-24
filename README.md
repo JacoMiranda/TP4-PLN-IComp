@@ -32,6 +32,8 @@ O repositório está organizado conforme os requisitos do trabalho prático:
 
 /custom_metrics/execution_accuracy.py: Contém a implementação da métrica customizada ExecutionAccuracy, utilizada para avaliar a correção funcional das queries SQL geradas.
 
+/Other/Results: Contém arquivos no formato CSV com as avaliações e resumos das fases 3 e 4. Também contém os dois aquivos .rar que foram gerados durante o fine-tuning e gravados no google drive. Arquivos mistral-7b-spider-run1 e mistral-7b-spider-run2. Caso queira testá-los sem a necessidade de rodar o código totalmente.
+
 requirements.txt: Lista de todas as dependências de Python necessárias para executar o projeto.
 
 README.md: Esta documentação detalhada.
