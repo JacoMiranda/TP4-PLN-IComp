@@ -22,8 +22,9 @@ Avaliar quantitativamente o trade-off entre especialização e generalização e
 │       ├── avaliacao_Fine-Tuned_Run_2.csv
 │       ├── avaliacao_mmlu_resultados.csv
 │       ├── summary_fase3_accuracy.csv
-│       ├── mistral-7b-spider-run1.rar
-│       └── mistral-7b-spider-run2.rar
+│    ├── mistral-7b-spider-run1.rar
+│    ├── mistral-7b-spider-run2.rar
+|    └── Relatório técnico-TP4.pdf
 ├── scripts/
 │   └── T4.ipynb                      # Notebook principal
 ├── requirements.txt                 # Dependências
@@ -114,6 +115,7 @@ Essa métrica avalia a acurácia funcional de consultas SQL:
 - [x] Avaliação ExecutionAccuracy
 - [x] Avaliação MMLU
 - [x] Resultados exportados (.csv)
+- [x] Relatório Técnico (.pdf)
 
 ## 📄 Licença
 
