@@ -1,4 +1,4 @@
-# 📊 Análise Quantitativa do Trade-off entre Especialização e Generalização em LLMs via Fine-Tuning
+# 📊 Análise Quantitativa do Trade-off entre Especialização e Generalização em LLMs via Fine-Tuning - By Jacó Miranda
 
 Este projeto implementa uma avaliação empírica e sistemática do processo de fine-tuning em Modelos de Linguagem de Grande Porte (LLMs), focando na quantificação do ganho de desempenho na tarefa-alvo (Text-to-SQL) e na medição da degradação de performance em tarefas de conhecimento geral (MMLU).
 
